@@ -10,7 +10,7 @@ So: what's the product of the following two 64-digit numbers?
 2718281828459045235360287471352662497757247093699959574966967627
 """
 
-from math import floor, ceil
+from math import ceil
 
 
 def karatsuba(num1: int, num2: int) -> int:
